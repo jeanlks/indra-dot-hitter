@@ -12,7 +12,7 @@ Clone o projeto e então faça o seguinte:
 * mvn clean package
 * navegue até a pasta *target*
 * navegue até a pasta *classes*
-* **WINDOWS**copie o arquivo *geckodriver.exe* e coloque-o no mesmo diretório do *jar-with-dependencies* gerado no package.
+* **WINDOWS**: copie o arquivo *geckodriver.exe* e coloque-o no mesmo diretório do *jar-with-dependencies* gerado no package.
 * **LINUX**: copie o arquivo *geckodriver.exe* e coloque-o no mesmo diretório do *jar-with-dependencies* gerado no package.
 * *java -jar dot-hitter-1.0-SNAPSHOT-jar-with-dependencies.jar*
 * Informe sua senha e clique **ENTRAR**
